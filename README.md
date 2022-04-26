@@ -12,4 +12,4 @@
 
 <div>
   <a href="
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erich-z_icons=true&theme=radical/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erich-z/>
