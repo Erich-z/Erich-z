@@ -8,3 +8,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Erich-Z&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
+![snake gif](https://github.com/Erich-Z/Erich-Z/blob/output/github-contribution-grid-snake.svg)
