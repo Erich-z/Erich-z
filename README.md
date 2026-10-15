@@ -1,43 +1,29 @@
-<h2 align="center">👋 Erich Valarini</h2>
+const erich = {
+  nome: "Erich Valarini",
+  cargo: "Desenvolvedor Full Stack",
+  foco: ["Back-End", "APIs", "Lógica"],
 
-<p align="center">
-  <strong>Desenvolvedor Full Stack</strong> <br/>
-  <sub>Foco em Back-End • APIs • Lógica</sub>
-</p>
+  sobre: {
+    formacao: "Análise e Desenvolvimento de Sistemas",
+    afinidade: "Back-End",
+    valores: ["código limpo", "lógica bem estruturada", "sistemas organizados"],
+  },
 
----
+  stack: {
+    linguagens: ["JavaScript", "TypeScript"],
+    backEnd:    ["Node.js", "Express"],
+    frontEnd:   ["React", "HTML", "CSS"],
+    ferramentas:["Git"],
+  },
 
-### 🧩 Sobre
+  emEvolucao: [
+    "JavaScript & TypeScript",
+    "Node.js + Express",
+    "APIs REST",
+    "Boas práticas e arquitetura",
+  ],
 
-Estudante de **Análise e Desenvolvimento de Sistemas**.  
-Atuo com desenvolvimento **Full Stack**, com maior afinidade por **Back-End**.  
-Gosto de código limpo, lógica bem estruturada e sistemas bem organizados.
+  lema: () => "Veni, vidi, vici.",
+};
 
----
-
-### ⚙️ Stack
-
-<div align="center">
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
-
----
-
-### 📚 Em evolução
-
-- JavaScript & TypeScript
-- Node.js + Express
-- APIs REST
-- Boas práticas e arquitetura
-
----
-
-<p align="center">
-  <sub>Veni, vidi, vici.</sub>
-</p>
+export default erich;
